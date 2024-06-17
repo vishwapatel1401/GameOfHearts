@@ -27,12 +27,12 @@ The Hearts Card Game is a digital version of the popular card game Hearts. It al
 ## Getting Started
 To run this project locally, follow these steps:
 
-1.	Clone the repository:
-```bash
-git clone https://github.com/vishwapatel1401/GameOfHearts
-2.	Navigate to the project directory:
-```bash
-cd hearts-card-game
+1. Clone the repository
+   ```bash
+   git clone https://github.com/vishwapatel1401/GameOfHearts
+2. Navigate to the project directory
+   ```bash
+   cd GameofHearts
 3.	Set up the database:
 -	**Create a MySQL database named hearts_game.**
 -	**Run the SQL scripts in the database folder to create necessary tables.**
