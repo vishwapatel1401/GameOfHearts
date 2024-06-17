@@ -27,7 +27,7 @@ Steps
 1.	Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/hearts-card-game.git
+git clone https://github.com/vishwapatel1401/GameOfHearts
 2.	Navigate to the project directory:
 bash
 Copy code
