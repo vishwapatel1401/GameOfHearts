@@ -25,12 +25,10 @@ Prerequisites
 
 Steps
 1.	Clone the repository:
-bash
-Copy code
+   ```bash
 git clone https://github.com/vishwapatel1401/GameOfHearts
 2.	Navigate to the project directory:
-bash
-Copy code
+```bash
 cd hearts-card-game
 3.	Set up the database:
 o	Create a MySQL database named hearts_game.
