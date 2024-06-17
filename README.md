@@ -34,13 +34,13 @@ To run this project locally, follow these steps:
    ```bash
    cd GameofHearts
 3.	Set up the database:
--	**Create a MySQL database named hearts_game.**
--	**Run the SQL scripts in the database folder to create necessary tables.**
+-	Create a MySQL database named hearts_game.
+-	Run the SQL scripts in the database folder to create necessary tables.
 4.	Update connection strings:
--	**Update the MySQL connection strings in the project configuration file with your database credentials.**
+-	Update the MySQL connection strings in the project configuration file with your database credentials.
 5.	Build and run the project:
--	**Open the project in your preferred IDE (e.g., Visual Studio).**
--	**Build the solution and run the application.**
+-	Open the project in your preferred IDE (e.g., Visual Studio).
+-	Build the solution and run the application.
 
 ## Usage
 1.	Launch the application.
